@@ -8,7 +8,7 @@ Building a Serverless web application using AWS Lambda, DynamodDB, Route 53, Clo
 
 ## Steps
 ### 1.	Create a Lambda IAM Role
-•	Trusted entity type: AWS Service
+•	Trusted entity type: AWS Service/n
 •	Use Case: Lambda
 •	Next
 •	Add Permissions: Amazon DynamoDBFullAccess
