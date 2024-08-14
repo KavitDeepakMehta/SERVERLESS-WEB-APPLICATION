@@ -133,8 +133,7 @@ Building a Serverless web application using AWS Lambda, DynamodDB, Route 53, Clo
 •	Record type: A
 
 •	Alias: 1. Routes traffic to – Alias to CloudFront Distribution
-
-                  2. Select the created cloudfront
+2. Select the created cloudfront
 •	Routing policy: Simple Routing
 
 •	Create Records
